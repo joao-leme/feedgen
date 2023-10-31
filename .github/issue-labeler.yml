@@ -1,0 +1,8 @@
+
+# Add 'dataIngestions' label if path contains smartFeed_components/dataIngestions
+
+feedServices:
+  - '.*/feed_services/.*'
+
+dataIngestions:
+  - '.*/smartFeed_components/dataIngestions/.*'
